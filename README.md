@@ -22,7 +22,7 @@
 - 💬 How to reach me: SoufianeProton@protonmail.com
   
 - ⚡ Fun fact: I'm currently working on a future beginner CTF event for technicians.
-
+<h2> <img src="https://github.com/GoCode0/GoCode0/blob/main/HTB-badge.png"> <img src="https://github.com/GoCode0/GoCode0/blob/main/THM-badge.png"></h1>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -43,7 +43,6 @@
     <a href="#"><img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
     <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
 </p>
-<h2> <img src="https://tryhackme-badges.s3.amazonaws.com/SoufianeProton.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/525364" alt="Hack The Box"></h1>
 <h2> Connect with me <img src='https://github.com/GoCode0/GoCode0/blob/main/handshake.gif' width="100px"> </h2>
 
 <a href = 'https://www.github.com/GoCode0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
