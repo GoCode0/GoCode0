@@ -1,6 +1,6 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/GoCode0/GoCode0/blob/main/banner.png)
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://github.com/GoCode0/GoCode0/blob/main/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -43,7 +43,7 @@
     <a href="#"><img alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
     <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
 </p>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://github.com/GoCode0/GoCode0/blob/main/handshake.gif' width="100px"> </h2>
 
 <a href = 'https://www.github.com/GoCode0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
@@ -58,3 +58,4 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoCode0&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=GoCode0&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<br>
