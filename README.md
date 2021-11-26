@@ -25,7 +25,7 @@
   
 - 😎 Hacker quote: Life isn't about finding yourself. Life is about creating yourself.
   
-- 🎖 Badges from tryhackme.com and hackthebox.eu( both free accounts sadly... ) :
+- 🎖 Badges from tryhackme.com and hackthebox.e (both free accounts sadly...) :
 <h2> <img src="https://github.com/GoCode0/GoCode0/blob/main/HTB-badge.png" width = 384px> <img src="https://github.com/GoCode0/GoCode0/blob/main/THM-badge.png" width = 384px></h1>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p>
