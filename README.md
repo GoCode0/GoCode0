@@ -21,7 +21,7 @@
   
 - 💬 How to reach me: SoufianeProton@protonmail.com
   
-- ⚡ Fun fact: I'm currently working on a future beginner CTF event for technicians.
+- ⚡ Fun fact: I'm currently working on a future beginner CTF event for specialized technicians.
   
 - 😎 Hacker quote: Life isn't about finding yourself. Life is about creating yourself.
   
