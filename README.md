@@ -11,7 +11,7 @@
 <div size='20px'> Hi! I'm Soufiane, an IT/software engineer, a teacher and a security enthousiast... - aka [GoCode0][SoufianeProton]. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/GoCode0/GoCode0/blob/main/istockphoto.jpg" />
 
 - 🔭 I'm currently working on interesting contributions in the Open Source Community.
   
