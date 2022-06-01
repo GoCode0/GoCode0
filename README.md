@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/GoCode0/GoCode0/blob/main/banner.png)
 
-<h1> Hello Fellow < /Developers >! <img src = "https://github.com/GoCode0/GoCode0/blob/main/wave.gif" width = 5px> </h1>
+<h1> Hello Fellow < /Developers >! <img src = "https://github.com/GoCode0/GoCode0/blob/main/wave.gif" width = 25px> </h1>
 <p align='center'>
 </p>
 
@@ -11,7 +11,7 @@
 <div size='20px'> Hi! I'm Soufiane, an IT/software engineer, a teacher and a security enthousiast... - aka [GoCode0][SoufianeProton]. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 20px></h2> -->
-<img width="55%" align="right" alt="Github" src="https://github.com/GoCode0/GoCode0/blob/main/image.jpg" />
+<img width="45%" align="right" alt="Github" src="https://github.com/GoCode0/GoCode0/blob/main/image.jpg" />
 
 - 🔭 I'm currently a member of a cyber-security team ranked in the top 50 worldwide.
   
