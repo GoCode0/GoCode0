@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/GoCode0/GoCode0/blob/main/banner.png)
 
-<h1> Hello Fellow < /Developers >! <img src = "https://github.com/GoCode0/GoCode0/blob/main/wave.gif" width = 25px> </h1>
+<h1> Hello Fellow < /Developers >! </h1>
 <p align='center'>
 </p>
 
