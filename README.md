@@ -27,7 +27,7 @@
   
 - 🎖 Badges from tryhackme.com and hackthebox.e (both free accounts sadly...) :
 <h2> <img src="https://github.com/GoCode0/GoCode0/blob/main/HTB-badge.png" width = 384px> <img src="https://github.com/GoCode0/GoCode0/blob/main/THM-badge.png" width = 384px></h1>
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
