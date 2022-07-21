@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/GoCode0/GoCode0/blob/main/banner.png)
 
-<h1> Hello Fellow < /Developers >! </h1>
+<h1> Hello @everyone </h1>
 <p align='center'>
 </p>
 
