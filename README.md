@@ -13,11 +13,11 @@
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 20px></h2> -->
 <img width="45%" align="right" alt="Github" src="https://github.com/GoCode0/GoCode0/blob/main/image.jpg" />
   
-- 👯 Ask me about anything related to Javascript/C/Python, Bash/Powershell, System administration and cybersecurity topics
+- 👯 Ask me about anything related to scripting, System administration and cybersecurity topics
   
 - 💬 How to reach me: SoufianeProton@protonmail.com
   
-- ⚡ Fun fact: The oldest person ever to have lived (whose age could be authenticated), a French woman named Jeanne Louise Calment, was 122 years old when she died in 1997. (guinnessworldrecord.com).
+- ⚡ Fun fact: The first recorded instance of hacking occurred in the 1960s reported by MIT’s student newspaper. A group of students used a computer to gain unauthorized access to a telephone network and make long-distance calls for free.
   
 - 😎 Hacker quote: Life isn't about finding yourself. Life is about creating yourself.
   
