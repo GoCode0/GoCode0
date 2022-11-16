@@ -13,7 +13,7 @@
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 20px></h2> -->
 <img width="45%" align="right" alt="Github" src="https://github.com/GoCode0/GoCode0/blob/main/image.jpg" />
   
-- 👯 Ask me about anything related to scripting, system administration and cybersecurity topics
+- 👯 Ask me about anything related to cyber-security and CTFs.
   
 - 💬 How to reach me: SoufianeProton@protonmail.com
   
