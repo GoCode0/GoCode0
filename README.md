@@ -8,7 +8,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=GoCode0.GoCode0)
 [![Github](https://img.shields.io/github/followers/GoCode0?label=Follow&style=social)](https://github.com/GoCode0)
 
-<div size='20px'> Hi! I'm Soufiane, an IT, system admin, tech trainer and a ctf player... - aka [GoCode0][SoufianeProton]. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! I'm Soufiane, an IT, system admin, tech trainer and a ctf player and organizer - aka [GoCode0][SoufianeProton]. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 20px></h2> -->
 <img width="45%" align="right" alt="Github" src="https://github.com/GoCode0/GoCode0/blob/main/image.jpg" />
